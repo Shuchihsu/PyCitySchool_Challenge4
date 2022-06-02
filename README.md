@@ -10,10 +10,10 @@
 
 **screenshot 1**
 
-!(https://github.com/jkmom/PyCitySchool_Challenge4/blob/main/Resources/district%20summary_original.png)
+![Original](https://github.com/jkmom/PyCitySchool_Challenge4/blob/main/Resources/district%20summary_original.png)
 
 **screenshot 2**
 
-!(https://github.com/jkmom/PyCitySchool_Challenge4/blob/main/Resources/district_summary_modified.png)
+![modified](https://github.com/jkmom/PyCitySchool_Challenge4/blob/main/Resources/district_summary_modified.png)
 
 	
