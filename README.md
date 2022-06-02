@@ -17,7 +17,7 @@ When we calculate the total school and total student, we apply count() function 
 
 ![modified](https://github.com/jkmom/PyCitySchool_Challenge4/blob/main/Resources/district_summary_modified.png)
 
-* How is the school summary affected?
+* How is the school summary affected?  
 Except Average Reading Score is higher than the original. Other performances are slightly lower (around 0.03%)
 
 **Original**
@@ -29,12 +29,12 @@ Except Average Reading Score is higher than the original. Other performances are
 ![modified](https://github.com/jkmom/PyCitySchool_Challenge4/blob/main/Resources/district_summary_modified.png)
 
 
-* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-Thomas High School remain second place after remove the 9th graders. The overall passing % dropped from 90.94% to 90.63%. But still higher than #3.
-* How does replacing the ninth-grade scores affect the following?
-__Math and reading scored by grade__: Because math and reading scores are calculated independently from 9th grader. To other grades in Thomas High School, there is no difference from original module.
-**Scores by school size**: Thomas High School belongs to the group “Medium”. So, the performances for group “Medium” are all slightly lower (around 0.05%). For groups “Small” and “Large”, the performances stay the same.
-**Scores by school spending**: Same as above (school size). The performance will be slightly lower with the group (631-645) which has Thomas High school.  
+* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?  
+Thomas High School remain second place after remove the 9th graders. The overall passing % dropped from 90.94% to 90.63%. But still higher than #3.  
+* How does replacing the ninth-grade scores affect the following?  
+__Math and reading scored by grade__: Because math and reading scores are calculated independently from 9th grader. To other grades in Thomas High School, there is no difference from original module.  
+**Scores by school size**: Thomas High School belongs to the group “Medium”. So, the performances for group “Medium” are all slightly lower (around 0.05%). For groups “Small” and “Large”, the performances stay the same.  
+**Scores by school spending**: Same as above (school size). The performance will be slightly lower with the group (631-645) which has Thomas High school.     
 **Scores by school type**: Thomas High School belongs to Charter school. So again, the Charter school performances are slightly lower than originally module. District school performances stay the same.
 ### Summary
 The major changes are: 
