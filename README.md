@@ -6,11 +6,14 @@
 
 ### Results
 
-* When we calculate the total school and total student, we apply count() function and these two numbers are the same as module. However, when we calculate the student performance, the count for the students will ignore the NaN from the ninth graders. So except % Passing Math and % Overall passing, other stats are slightly a little bit higher than original numbers. See below screenshot 1 or original and screenshot 2 for the modified numbers from removing the ninth graders.
+* When we calculate the total school and total student, we apply count() function and these two numbers are the same as module. However, when we calculate the student performance, the count for the students will ignore the NaN from the ninth graders. So, except % Passing Math and % Overall passing, other stats are slightly a little bit higher than original numbers. See below screenshot 1 or original and screenshot 2 for the modified numbers from removing the ninth graders.
 
 **screenshot 1**
-![PyCitySchool_Challenge4/district summary_original.png at main · jkmom/PyCitySchool_Challenge4 (github.com)]
+
+![https://github.com/jkmom/PyCitySchool_Challenge4/blob/main/Resources/district%20summary_original.png]
+
 **screenshot 2**
-![PyCitySchool_Challenge4/district_summary_modified.png at main · jkmom/PyCitySchool_Challenge4 (github.com)]
+
+![https://github.com/jkmom/PyCitySchool_Challenge4/blob/main/Resources/district_summary_modified.png}
 
 	
